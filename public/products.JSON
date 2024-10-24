@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 120.99,
+    "description": "Noise-cancelling wireless headphones with 20-hour battery life.",
+    "brand": "AudioMax",
+    "availability": "In Stock",
+    "img":"https://img.freepik.com/free-photo/still-life-wireless-cyberpunk-headphones_23-2151072207.jpg?t=st=1728304558~exp=1728308158~hmac=bcfabb91a6d414ea13aa9bad6062d1c3a340fdd5c964f99869f43cb416a25c0f&w=360"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 799.99,
+    "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+    "brand": "TechMaster",
+    "availability": "In Stock",
+    "img": "https://img.freepik.com/free-photo/elegant-smartphone-composition_23-2149437106.jpg?t=st=1728304446~exp=1728308046~hmac=4cabf6ef326b95e9b774314cc01c3a9efbfefce1217851e6b29e074dcb5cd0c1&w=360"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Laptop",
+    "price": 1499.99,
+    "description": "High-performance laptop with 16GB RAM, 1TB SSD, and an RTX 3060 GPU.",
+    "brand": "PowerGamer",
+    "availability": "Out of Stock",
+    "img": "https://img.freepik.com/free-photo/side-view-gamer-playing-laptop_23-2149829166.jpg?t=st=1728304810~exp=1728308410~hmac=0ae896e1e4c1e2f4df34fb08d712030e6be116582416da89fd703d0d677420a5&w=360"
+  },
+  {
+    "id": 4,
+    "name": "4K TV",
+    "price": 699.99,
+    "description": "55-inch 4K Ultra HD smart TV with HDR support and built-in streaming apps.",
+    "brand": "VisionPro",
+    "availability": "In Stock",
+    "img": "https://img.freepik.com/premium-photo/samsung-qn90a-neo-qled-with-stunning-4k-display-advanced-technology_1240525-90430.jpg?w=360"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "description": "Portable Bluetooth speaker with waterproof design and 12-hour playtime.",
+    "brand": "SoundBlitz",
+    "availability": "In Stock",
+    "img": "https://img.freepik.com/free-photo/still-life-tech-device_23-2150722656.jpg?t=st=1728305095~exp=1728308695~hmac=cd5860a41aebb1a43ded71778b54a0c56c8292b66c6ec630587d3a81ccb7bea0&w=360"
+  },
+  {
+    "id": 6,
+    "name": "Smart Watch",
+    "price": 199.99,
+    "description": "Fitness tracking smartwatch with heart rate monitor and GPS.",
+    "brand": "FitTech",
+    "availability": "Limited Stock",
+    "img": "https://img.freepik.com/free-photo/rendering-smart-home-device_23-2151039303.jpg?t=st=1728305153~exp=1728308753~hmac=60c9f9df226fa582bcf5efbe613a06802a7f54ccf19200d679d027e16f30f680&w=360"
+  },
+  {
+    "id": 7,
+    "name": "Tablet",
+    "price": 349.99,
+    "description": "10.1-inch tablet with 64GB storage, Wi-Fi, and 8MP camera.",
+    "brand": "TabPro",
+    "availability": "In Stock",
+    "img": "https://img.freepik.com/free-photo/high-angle-tablet-minimal-display-grey-surface_23-2149554953.jpg?t=st=1728305207~exp=1728308807~hmac=c839c7f1900aa952c8bd44f9e4632dae5c0055b4073c9d55c7106807dcee0ec4&w=360"
+  },
+  {
+    "id": 8,
+    "name": "External Hard Drive",
+    "price": 89.99,
+    "description": "2TB portable external hard drive with USB 3.0 support.",
+    "brand": "DataSafe",
+    "availability": "In Stock",
+    "img": "https://img.freepik.com/free-photo/modern-wireless-charger-tray-with-concrete-background_23-2150808024.jpg?t=st=1728305282~exp=1728308882~hmac=5966961288f7a02d24f015cc053a775ffd9df305f5170c80fd4f7d1165410da2&w=360"
+  },
+  {
+    "id": 9,
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "description": "Ergonomic wireless mouse with adjustable DPI and rechargeable battery.",
+    "brand": "ClickMaster",
+    "availability": "In Stock",
+    "img": "https://img.freepik.com/free-photo/still-life-books-versus-technology_23-2150062891.jpg?t=st=1728305341~exp=1728308941~hmac=edcd837dd9394df6fa4f81ae40002b80013318475dc44cbd3b9132305be89ed3&w=360"
+  },
+  {
+    "id": 10,
+    "name": "Mechanical Keyboard",
+    "price": 99.99,
+    "description": "RGB backlit mechanical keyboard with programmable keys.",
+    "brand": "TypePro",
+    "availability": "Out of Stock",
+    "img": "https://img.freepik.com/free-photo/view-illuminated-neon-gaming-keyboard-setup-3d-glasses_23-2149529415.jpg?t=st=1728305407~exp=1728309007~hmac=6f3e912fa2ec03a921520cf5701c7a363d180d35760dafb93579339086e39f45&w=360"
+  }
+]
